@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://awslabs.github.io/kubeflow-manifests/"
 title = "Kubeflow on AWS"
 description = "Kubeflow makes deployment of ML Workflows on Kubernetes straightforward and automated"
 
@@ -29,7 +29,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Documentation"
     weight = -101
     pre = "<i class='fas fa-book pr-2'></i>"
-    url = "/docs/"
+    url = "./docs/"
   [[menu.main]]
     name = "GitHub"
     weight = -99
