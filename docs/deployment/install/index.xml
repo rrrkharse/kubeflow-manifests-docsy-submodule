@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubeflow on AWS – Install Kubeflow</title>
-    <link>/docs/deployment/install/</link>
+    <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/</link>
     <description>Recent content in Install Kubeflow on Kubeflow on AWS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/deployment/install/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Prerequisites</title>
-      <link>/docs/deployment/install/prerequisites/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/prerequisites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/prerequisites/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/prerequisites/</guid>
       <description>
         
         
@@ -64,7 +64,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;More details about cluster creation via &lt;code&gt;eksctl&lt;/code&gt; can be found in the &lt;a href=&#34;https://eksctl.io/usage/creating-and-managing-clusters/&#34;&gt;Creating and managing clusters&lt;/a&gt; guide.&lt;/p&gt;
 &lt;h2 id=&#34;clone-the-repository&#34;&gt;Clone the repository&lt;/h2&gt;
 &lt;p&gt;Clone the &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests&#34;&gt;&lt;code&gt;awslabs/kubeflow-manifest&lt;/code&gt;&lt;/a&gt; and the &lt;a href=&#34;https://github.com/kubeflow/manifests&#34;&gt;&lt;code&gt;kubeflow/manifests&lt;/code&gt;&lt;/a&gt; repositories and check out the release branches of your choosing.&lt;/p&gt;
-&lt;p&gt;Substitute the value for &lt;code&gt;KUBEFLOW_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1) and &lt;code&gt;AWS_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1-aws-b1.0.0) with the tag or branch you want to use below. Read more about &lt;a href=&#34;/docs/about/releases/&#34;&gt;releases and versioning&lt;/a&gt; if you are unsure about what these values should be.&lt;/p&gt;
+&lt;p&gt;Substitute the value for &lt;code&gt;KUBEFLOW_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1) and &lt;code&gt;AWS_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1-aws-b1.0.0) with the tag or branch you want to use below. Read more about &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/releases/&#34;&gt;releases and versioning&lt;/a&gt; if you are unsure about what these values should be.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;KUBEFLOW_RELEASE_VERSION&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&amp;lt;&amp;gt;
 &lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;AWS_RELEASE_VERSION&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&amp;lt;&amp;gt;
 git clone https://github.com/awslabs/kubeflow-manifests.git &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#204a87&#34;&gt;cd&lt;/span&gt; kubeflow-manifests
@@ -76,10 +76,10 @@ git clone --branch &lt;span style=&#34;color:#4e9a06&#34;&gt;${&lt;/span&gt;&lt;
     
     <item>
       <title>Docs: Cognito</title>
-      <link>/docs/deployment/install/cognito/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/cognito/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/guide/</guid>
       <description>
         
         
@@ -350,10 +350,10 @@ kustomize build awsconfigs/common/aws-authservice/base | kubectl apply -f -
     
     <item>
       <title>Docs: RDS and S3</title>
-      <link>/docs/deployment/install/rds-s3/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/rds-s3/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/rds-s3/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/rds-s3/guide/</guid>
       <description>
         
         
@@ -705,10 +705,10 @@ PYTHONPATH=.. python utils/rds-s3/auto-rds-s3-cleanup.py --region $CLUSTER_REGIO
     
     <item>
       <title>Docs: Cognito, RDS, and S3</title>
-      <link>/docs/deployment/install/cognito-rds-s3/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito-rds-s3/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/cognito-rds-s3/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito-rds-s3/guide/</guid>
       <description>
         
         
@@ -833,10 +833,10 @@ kustomize build awsconfigs/common/aws-authservice/base | kubectl apply -f -
     
     <item>
       <title>Docs: Vanilla Installation</title>
-      <link>/docs/deployment/install/vanilla/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/vanilla/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/vanilla/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/vanilla/guide/</guid>
       <description>
         
         
@@ -1047,10 +1047,10 @@ kubectl get pods -n kubeflow-user-example-com
     
     <item>
       <title>Docs: Add-ons</title>
-      <link>/docs/deployment/install/add-ons/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/</guid>
       <description>
         
         
@@ -1060,10 +1060,10 @@ kubectl get pods -n kubeflow-user-example-com
     
     <item>
       <title>Docs: </title>
-      <link>/docs/deployment/install/cognito/readme-automated/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/readme-automated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/cognito/readme-automated/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/readme-automated/</guid>
       <description>
         
         

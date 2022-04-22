@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubeflow on AWS – Documentation</title>
-    <link>/docs/</link>
+    <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/</link>
     <description>Recent content in Documentation on Kubeflow on AWS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: AWS Features for Kubeflow</title>
-      <link>/docs/about/features/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/about/features/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/features/</guid>
       <description>
         
         
@@ -54,10 +54,10 @@
     
     <item>
       <title>Docs: EFS</title>
-      <link>/docs/deployment/install/add-ons/storage/efs/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/efs/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/storage/efs/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/efs/guide/</guid>
       <description>
         
         
@@ -300,10 +300,10 @@ b. Delete the &lt;code&gt;efs-csi-controller-sa&lt;/code&gt; service account and
     
     <item>
       <title>Docs: Notebooks</title>
-      <link>/docs/component-guides/notebooks/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/notebooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/component-guides/notebooks/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/notebooks/</guid>
       <description>
         
         
@@ -316,7 +316,7 @@ b. Delete the &lt;code&gt;efs-csi-controller-sa&lt;/code&gt; service account and
 &lt;li&gt;Use EFS and FSx to share data and models across nodes.&lt;/li&gt;
 &lt;li&gt;USE EFS and FSx for dynamic volume sizing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Use &lt;a href=&#34;/docs/component-guides/notebook-servers/&#34;&gt;AWS-optimized Kubeflow Notebook servers&lt;/a&gt; to quickly get started with a range of framework, library, and hardware options.&lt;/p&gt;
+&lt;p&gt;Use &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/notebook-servers/&#34;&gt;AWS-optimized Kubeflow Notebook servers&lt;/a&gt; to quickly get started with a range of framework, library, and hardware options.&lt;/p&gt;
 &lt;h2 id=&#34;aws-optimized-kubeflow-notebook-servers&#34;&gt;AWS-optimized Kubeflow Notebook servers&lt;/h2&gt;
 &lt;p&gt;Use AWS-optimized Kubeflow Notebook server images to quickly get started with a range of framework, library, and hardware options. These images are based on &lt;a href=&#34;https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/what-is-dlc.html&#34;&gt;AWS Deep Learning Containers&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The following container images are available from the &lt;a href=&#34;https://gallery.ecr.aws/c9e4w0g3/&#34;&gt;Amazon Elastic Container Registry (Amazon ECR)&lt;/a&gt;.&lt;/p&gt;
@@ -395,7 +395,7 @@ pip install -r requirements.txt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;aws-iam-for-kubeflow-profiles-in-notebooks&#34;&gt;AWS IAM for Kubeflow Profiles in Notebooks&lt;/h2&gt;
 &lt;p&gt;Use &lt;a href=&#34;https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html&#34;&gt;AWS IAM&lt;/a&gt; to securely access AWS resources through Kubeflow Notebooks.&lt;/p&gt;
 &lt;h3 id=&#34;configuration&#34;&gt;Configuration&lt;/h3&gt;
-&lt;p&gt;Prerequisites for setting up AWS IAM for Kubeflow Profiles can be found in the &lt;a href=&#34;/docs/component-guides/profiles/#configuration-steps&#34;&gt;Profiles component guide&lt;/a&gt;. These steps go through creating a profile that uses the &lt;code&gt;AwsIamForServiceAccount&lt;/code&gt; plugin. No additional configuration steps are required.&lt;/p&gt;
+&lt;p&gt;Prerequisites for setting up AWS IAM for Kubeflow Profiles can be found in the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/profiles/#configuration-steps&#34;&gt;Profiles component guide&lt;/a&gt;. These steps go through creating a profile that uses the &lt;code&gt;AwsIamForServiceAccount&lt;/code&gt; plugin. No additional configuration steps are required.&lt;/p&gt;
 &lt;h3 id=&#34;try-it-out&#34;&gt;Try it out&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Create a Notebook server through the central dashboard.&lt;/li&gt;
@@ -409,10 +409,10 @@ pip install -r requirements.txt
     
     <item>
       <title>Docs: Prerequisites</title>
-      <link>/docs/deployment/install/prerequisites/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/prerequisites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/prerequisites/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/prerequisites/</guid>
       <description>
         
         
@@ -458,7 +458,7 @@ pip install -r requirements.txt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;More details about cluster creation via &lt;code&gt;eksctl&lt;/code&gt; can be found in the &lt;a href=&#34;https://eksctl.io/usage/creating-and-managing-clusters/&#34;&gt;Creating and managing clusters&lt;/a&gt; guide.&lt;/p&gt;
 &lt;h2 id=&#34;clone-the-repository&#34;&gt;Clone the repository&lt;/h2&gt;
 &lt;p&gt;Clone the &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests&#34;&gt;&lt;code&gt;awslabs/kubeflow-manifest&lt;/code&gt;&lt;/a&gt; and the &lt;a href=&#34;https://github.com/kubeflow/manifests&#34;&gt;&lt;code&gt;kubeflow/manifests&lt;/code&gt;&lt;/a&gt; repositories and check out the release branches of your choosing.&lt;/p&gt;
-&lt;p&gt;Substitute the value for &lt;code&gt;KUBEFLOW_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1) and &lt;code&gt;AWS_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1-aws-b1.0.0) with the tag or branch you want to use below. Read more about &lt;a href=&#34;/docs/about/releases/&#34;&gt;releases and versioning&lt;/a&gt; if you are unsure about what these values should be.&lt;/p&gt;
+&lt;p&gt;Substitute the value for &lt;code&gt;KUBEFLOW_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1) and &lt;code&gt;AWS_RELEASE_VERSION&lt;/code&gt;(e.g. v1.4.1-aws-b1.0.0) with the tag or branch you want to use below. Read more about &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/releases/&#34;&gt;releases and versioning&lt;/a&gt; if you are unsure about what these values should be.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;KUBEFLOW_RELEASE_VERSION&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&amp;lt;&amp;gt;
 &lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;AWS_RELEASE_VERSION&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&amp;lt;&amp;gt;
 git clone https://github.com/awslabs/kubeflow-manifests.git &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#204a87&#34;&gt;cd&lt;/span&gt; kubeflow-manifests
@@ -470,10 +470,10 @@ git clone --branch &lt;span style=&#34;color:#4e9a06&#34;&gt;${&lt;/span&gt;&lt;
     
     <item>
       <title>Docs: Cognito</title>
-      <link>/docs/deployment/install/cognito/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/cognito/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/guide/</guid>
       <description>
         
         
@@ -744,10 +744,10 @@ kustomize build awsconfigs/common/aws-authservice/base | kubectl apply -f -
     
     <item>
       <title>Docs: FSx for Lustre</title>
-      <link>/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</guid>
       <description>
         
         
@@ -930,10 +930,10 @@ kubectl delete pv fsx-pv
     
     <item>
       <title>Docs: Pipelines</title>
-      <link>/docs/component-guides/pipelines/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/component-guides/pipelines/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/pipelines/</guid>
       <description>
         
         
@@ -943,10 +943,10 @@ kubectl delete pv fsx-pv
 &lt;h2 id=&#34;authenticate-kubeflow-pipelines-using-sdk-outside-cluster&#34;&gt;Authenticate Kubeflow Pipelines using SDK outside cluster&lt;/h2&gt;
 &lt;p&gt;Refer to the following guide to connect to Kubeflow Pipelines from &lt;a href=&#34;https://www.kubeflow.org/docs/components/pipelines/sdk/connect-api/#connect-to-kubeflow-pipelines-from-outside-your-cluster&#34;&gt;outside your cluster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Refer to the following steps to use &lt;code&gt;kfp&lt;/code&gt; to pass a cookie from your browser after you log into Kubeflow. The following example uses a Chrome browser.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/docs/images/aws/kfp-sdk-browser-cookie.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/images/aws/kfp-sdk-browser-cookie.png&#34;
 alt=&#34;KFP SDK Browser Cookie&#34;
 class=&#34;mt-3 mb-3 border border-info rounded&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/docs/images/aws/kfp-sdk-browser-cookie-detail.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/images/aws/kfp-sdk-browser-cookie-detail.png&#34;
 alt=&#34;KFP SDK Browser Cookie Detail&#34;
 class=&#34;mt-3 mb-3 border border-info rounded&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Once you get a cookie, authenticate &lt;code&gt;kfp&lt;/code&gt; by passing the cookie from your browser. Use the session based on the appropriate manifest for your deployment, as done in the following examples.&lt;/p&gt;
@@ -963,7 +963,7 @@ class=&#34;mt-3 mb-3 border border-info rounded&#34;&gt;&lt;/p&gt;
 
 &lt;span style=&#34;color:#000&#34;&gt;client&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt; kfp.Client&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;host&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;f&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;http://{kubeflow_gateway_endpoint}/pipeline&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#000&#34;&gt;cookies&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;f&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;authservice_session={authservice_session_cookie}&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;)&lt;/span&gt;
 client.list_experiments&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;namespace&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;namespace&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you want to set up application load balancing (ALB) with Dex, see &lt;a href=&#34;/docs/deployment/install/vanilla/vanilla/#exposing-kubeflow-over-load-balancer&#34;&gt;Exposing Kubeflow over Load Balancer&lt;/a&gt; and use the ALB address as the Kubeflow Endpoint.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you want to set up application load balancing (ALB) with Dex, see &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/vanilla/vanilla/#exposing-kubeflow-over-load-balancer&#34;&gt;Exposing Kubeflow over Load Balancer&lt;/a&gt; and use the ALB address as the Kubeflow Endpoint.&lt;/p&gt;
 &lt;p&gt;To do programmatic authentication with Dex, refer to the following comments under &lt;a href=&#34;https://github.com/kubeflow/kfctl/issues/140&#34;&gt;issue #140&lt;/a&gt; in the &lt;code&gt;kfctl&lt;/code&gt; repository: &lt;a href=&#34;https://github.com/kubeflow/kfctl/issues/140#issuecomment-578837304&#34;&gt;#140 (comment)&lt;/a&gt; and &lt;a href=&#34;https://github.com/kubeflow/kfctl/issues/140#issuecomment-719894529&#34;&gt;#140 (comment)&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;cognito&#34;&gt;&lt;strong&gt;Cognito&lt;/strong&gt;&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;# This is the &amp;#34;Domain&amp;#34; in your cookies. eg: kubeflow.&amp;lt;platform.example.com&amp;gt;&lt;/span&gt;
@@ -1068,10 +1068,10 @@ spec:
     
     <item>
       <title>Docs: Releases and Versioning</title>
-      <link>/docs/about/releases/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/releases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/about/releases/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/releases/</guid>
       <description>
         
         
@@ -1094,10 +1094,10 @@ spec:
     
     <item>
       <title>Docs: Amazon EKS and Kubeflow Compatibility</title>
-      <link>/docs/about/eks-compatibility/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/eks-compatibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/about/eks-compatibility/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/eks-compatibility/</guid>
       <description>
         
         
@@ -1142,10 +1142,10 @@ spec:
     
     <item>
       <title>Docs: CloudWatch</title>
-      <link>/docs/deployment/install/add-ons/cloudwatch/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/cloudwatch/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/cloudwatch/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/cloudwatch/guide/</guid>
       <description>
         
         
@@ -1188,10 +1188,10 @@ curl https://raw.githubusercontent.com/aws-samples/amazon-cloudwatch-container-i
     
     <item>
       <title>Docs: KServe</title>
-      <link>/docs/component-guides/kserve/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/component-guides/kserve/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/</guid>
       <description>
         
         
@@ -1199,14 +1199,14 @@ curl https://raw.githubusercontent.com/aws-samples/amazon-cloudwatch-container-i
 &lt;blockquote&gt;
 &lt;p&gt;Note: Kubeflow on AWS v1.4 uses &lt;a href=&#34;https://www.kubeflow.org/docs/external-add-ons/kserve/kserve/#kfserving-is-now-kservehttpskservegithubiowebsite07blogarticles2021-09-27-kfserving-transition&#34;&gt;KFServing&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Read the &lt;a href=&#34;/docs/deployment/install/add-ons/load-balancer/guide/#background&#34;&gt;background&lt;/a&gt; section of the Load Balancer installation guide to familiarize yourself with the requirements for creating an Application Load Balancer on AWS.&lt;/p&gt;
+&lt;p&gt;Read the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/load-balancer/guide/#background&#34;&gt;background&lt;/a&gt; section of the Load Balancer installation guide to familiarize yourself with the requirements for creating an Application Load Balancer on AWS.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
 &lt;p&gt;This guide assumes that you have:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The &lt;a href=&#34;https://kubernetes-sigs.github.io/aws-load-balancer-controller/&#34;&gt;AWS Load Balancer controller&lt;/a&gt; configured with one of the following deployment options:
 &lt;ul&gt;
 &lt;li&gt;A Cognito-integrated deployment that is configured with the &lt;a href=&#34;../deployment/cognito/README.md#30-configure-ingress&#34;&gt;AWS Load Balancer controller by default&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;A deployment that is not integrated with Cognito (for example, the &lt;a href=&#34;/docs/deployment/install/vanilla/guide/&#34;&gt;Vanilla deployment&lt;/a&gt;, which uses Dex as an auth provider), but have followed the &lt;a href=&#34;../deployment/add-ons/load-balancer/README.md&#34;&gt;Exposing Kubeflow over Load Balancer guide&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A deployment that is not integrated with Cognito (for example, the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/vanilla/guide/&#34;&gt;Vanilla deployment&lt;/a&gt;, which uses Dex as an auth provider), but have followed the &lt;a href=&#34;../deployment/add-ons/load-balancer/README.md&#34;&gt;Exposing Kubeflow over Load Balancer guide&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;A subdomain for hosting Kubeflow. For this guide, we will use the domain &lt;code&gt;platform.example.com&lt;/code&gt;.&lt;/li&gt;
@@ -1239,13 +1239,13 @@ data:
 &lt;li&gt;For example, &lt;code&gt;*.platform.example.com&lt;/code&gt; can protect &lt;code&gt;staging.platform.example.com&lt;/code&gt;, and &lt;code&gt;prod.platform.example.com&lt;/code&gt;, but it cannot protect &lt;code&gt;sklearn-iris.staging.platform.example.com&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;create-a-certificate&#34;&gt;Create a certificate&lt;/h3&gt;
-&lt;p&gt;Create an ACM certificate for &lt;code&gt;*.platform.example.com&lt;/code&gt; and &lt;code&gt;*.staging.platform.example.com&lt;/code&gt; by following the &lt;a href=&#34;/docs/deployment/install/add-ons/load-balancer/guide/#create-domain-and-certificates&#34;&gt;create certificates for domain&lt;/a&gt; Load Balancer guide installation guide.&lt;/p&gt;
+&lt;p&gt;Create an ACM certificate for &lt;code&gt;*.platform.example.com&lt;/code&gt; and &lt;code&gt;*.staging.platform.example.com&lt;/code&gt; by following the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/load-balancer/guide/#create-domain-and-certificates&#34;&gt;create certificates for domain&lt;/a&gt; Load Balancer guide installation guide.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: Both of these domains should be requested in the same certificate&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Once the certificate status changes to &lt;code&gt;Issued&lt;/code&gt;, export the ARN of the certificate created:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;certArn&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&amp;lt;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you are using Cognito for user authentication, see &lt;a href=&#34;/docs/component-guides/kserve/#cognito&#34;&gt;Cognito&lt;/a&gt;. If you use Dex as the auth provider in your Kubeflow deployment, see &lt;a href=&#34;/docs/component-guides/kserve/#dex&#34;&gt;Dex&lt;/a&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you are using Cognito for user authentication, see &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#cognito&#34;&gt;Cognito&lt;/a&gt;. If you use Dex as the auth provider in your Kubeflow deployment, see &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#dex&#34;&gt;Dex&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;cognito-ingress&#34;&gt;Cognito ingress&lt;/h2&gt;
 &lt;p&gt;It is not currently possible to programatically authenticate a request that uses Amazon Cognito for user authentication through Load Balancer.&lt;/p&gt;
 &lt;ul&gt;
@@ -1257,7 +1257,7 @@ data:
 &lt;ol&gt;
 &lt;li&gt;Configure the following parameters for &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests/blob/main/awsconfigs/common/istio-ingress/overlays/api/params.env&#34;&gt;ingress&lt;/a&gt;:
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;certArn&lt;/code&gt;: ARN of certificate created during &lt;a href=&#34;/docs/component-guides/kserve/#request-a-certificate&#34;&gt;Request a certificate&lt;/a&gt; step.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;certArn&lt;/code&gt;: ARN of certificate created during &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#request-a-certificate&#34;&gt;Request a certificate&lt;/a&gt; step.&lt;/li&gt;
 &lt;li&gt;(optional) &lt;code&gt;httpHeaderName&lt;/code&gt;: Custom HTTP header name that you want to configure for the rule evaluation. Defaults to &lt;code&gt;x-api-key&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;httpHeaderValues&lt;/code&gt;: One or more match strings that need to be compared against the header value if the request received. You only need to pass one of the tokens in the request. Pick strong values.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1283,11 +1283,11 @@ NAME                CLASS    HOSTS   ADDRESS                                    
 istio-ingress-api   &amp;lt;none&amp;gt;   *       xxxxxx-istiosystem-istio-2af2-1100502020.us-west-2.elb.amazonaws.com   &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;80&lt;/span&gt;      14m
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Once your Load Balancer is ready, move on to the &lt;a href=&#34;/docs/component-guides/kserve/#add-dns-records&#34;&gt;Add DNS records&lt;/a&gt; step to add a DNS record for the staging subdomain.&lt;/p&gt;
+&lt;p&gt;Once your Load Balancer is ready, move on to the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#add-dns-records&#34;&gt;Add DNS records&lt;/a&gt; step to add a DNS record for the staging subdomain.&lt;/p&gt;
 &lt;h2 id=&#34;dex-ingress&#34;&gt;Dex ingress&lt;/h2&gt;
 &lt;h3 id=&#34;update-the-certificate-for-your-load-balancer&#34;&gt;Update the certificate for your Load Balancer&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Configure the parameters for &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests/blob/main/awsconfigs/common/istio-ingress/overlays/api/params.env&#34;&gt;ingress&lt;/a&gt; with the ARN of the certificate created during the &lt;a href=&#34;/docs/component-guides/kserve/#request-a-certificate&#34;&gt;Request a certificate&lt;/a&gt; step.
+&lt;li&gt;Configure the parameters for &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests/blob/main/awsconfigs/common/istio-ingress/overlays/api/params.env&#34;&gt;ingress&lt;/a&gt; with the ARN of the certificate created during the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#request-a-certificate&#34;&gt;Request a certificate&lt;/a&gt; step.
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#204a87&#34;&gt;printf&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;certArn=&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;$certArn&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;&amp;#39;&lt;/span&gt; &amp;gt; awsconfigs/common/istio-ingress/overlays/https/params.env
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Update the Load Balancer with the following command:
@@ -1299,7 +1299,7 @@ NAME            CLASS    HOSTS   ADDRESS                                        
 istio-ingress   &amp;lt;none&amp;gt;   *       xxxxxx-istiosystem-istio-2af2-1100502020.us-west-2.elb.amazonaws.com   80      15d
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Once your Load Balancer is ready, move on to the &lt;a href=&#34;/docs/component-guides/kserve/#add-dns-records&#34;&gt;Add DNS records&lt;/a&gt; step to add a DNS record for the staging subdomain.&lt;/p&gt;
+&lt;p&gt;Once your Load Balancer is ready, move on to the &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#add-dns-records&#34;&gt;Add DNS records&lt;/a&gt; step to add a DNS record for the staging subdomain.&lt;/p&gt;
 &lt;h2 id=&#34;add-dns-records&#34;&gt;Add DNS records&lt;/h2&gt;
 &lt;p&gt;Once your ingress-managed Load Balancer is ready, copy the &lt;code&gt;ADDRESS&lt;/code&gt; of that Load Balancer and create a &lt;code&gt;CNAME&lt;/code&gt; entry to it in &lt;a href=&#34;https://aws.amazon.com/route53/&#34;&gt;Amazon Route 53&lt;/a&gt; under the subdomain for &lt;code&gt;*.staging.platform.example.com&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;run-a-sample-inferenceservice&#34;&gt;Run a sample InferenceService&lt;/h2&gt;
@@ -1326,7 +1326,7 @@ export PROFILE_NAMESPACE=&amp;#34;staging&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Install dependencies for the script by running &lt;code&gt;pip install requests&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Run the sample python script to send an inference request based on your auth provider:&lt;/p&gt;
 &lt;h4 id=&#34;cognito-inference&#34;&gt;Cognito inference&lt;/h4&gt;
-&lt;p&gt;Run the &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests/blob/main/tests/e2e/utils/kserve/inference_sample_cognito.py&#34;&gt;inference_sample_cognito.py&lt;/a&gt; Python script by exporting the values for &lt;code&gt;HTTP_HEADER_NAME&lt;/code&gt;(e.g. &lt;code&gt;x-api-key&lt;/code&gt;) and &lt;code&gt;HTTP_HEADER_VALUE&lt;/code&gt;(e.g. &lt;code&gt;token1&lt;/code&gt;) according to the values configured in &lt;a href=&#34;/docs/component-guides/kserve/#create-ingress&#34;&gt;ingress section&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Run the &lt;a href=&#34;https://github.com/awslabs/kubeflow-manifests/blob/main/tests/e2e/utils/kserve/inference_sample_cognito.py&#34;&gt;inference_sample_cognito.py&lt;/a&gt; Python script by exporting the values for &lt;code&gt;HTTP_HEADER_NAME&lt;/code&gt;(e.g. &lt;code&gt;x-api-key&lt;/code&gt;) and &lt;code&gt;HTTP_HEADER_VALUE&lt;/code&gt;(e.g. &lt;code&gt;token1&lt;/code&gt;) according to the values configured in &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/kserve/#create-ingress&#34;&gt;ingress section&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;HTTP_HEADER_NAME&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;x-api-key&amp;#34;&lt;/span&gt;
 &lt;span style=&#34;color:#204a87&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;HTTP_HEADER_VALUE&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;token1&amp;#34;&lt;/span&gt;
 
@@ -1349,10 +1349,10 @@ JSON Response  &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;{&lt;/
     
     <item>
       <title>Docs: RDS and S3</title>
-      <link>/docs/deployment/install/rds-s3/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/rds-s3/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/rds-s3/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/rds-s3/guide/</guid>
       <description>
         
         
@@ -1704,10 +1704,10 @@ PYTHONPATH=.. python utils/rds-s3/auto-rds-s3-cleanup.py --region $CLUSTER_REGIO
     
     <item>
       <title>Docs: Troubleshooting</title>
-      <link>/docs/troubleshooting-aws/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/troubleshooting-aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/troubleshooting-aws/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/troubleshooting-aws/</guid>
       <description>
         
         
@@ -1775,10 +1775,10 @@ Database changed
     
     <item>
       <title>Docs: Uninstall Kubeflow</title>
-      <link>/docs/deployment/uninstall-kubeflow/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/uninstall-kubeflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/uninstall-kubeflow/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/uninstall-kubeflow/</guid>
       <description>
         
         
@@ -1788,7 +1788,7 @@ Database changed
 kubectl delete profile --all
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then, delete the Kubeflow deployment with the following command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;kustomize build example &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;|&lt;/span&gt; kubectl delete -f 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Cleanup steps for specific deployment options can be found in their respective &lt;a href=&#34;/docs/deployment/install/&#34;&gt;installation guides&lt;/a&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Cleanup steps for specific deployment options can be found in their respective &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/&#34;&gt;installation guides&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: This will not delete your Amazon EKS cluster.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1805,10 +1805,10 @@ kubectl delete profile --all
     
     <item>
       <title>Docs: Cognito, RDS, and S3</title>
-      <link>/docs/deployment/install/cognito-rds-s3/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito-rds-s3/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/cognito-rds-s3/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito-rds-s3/guide/</guid>
       <description>
         
         
@@ -1933,10 +1933,10 @@ kustomize build awsconfigs/common/aws-authservice/base | kubectl apply -f -
     
     <item>
       <title>Docs: Load Balancer</title>
-      <link>/docs/deployment/install/add-ons/load-balancer/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/load-balancer/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/load-balancer/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/load-balancer/guide/</guid>
       <description>
         
         
@@ -2176,10 +2176,10 @@ cd -
     
     <item>
       <title>Docs: Profiles</title>
-      <link>/docs/component-guides/profiles/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/profiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/component-guides/profiles/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/profiles/</guid>
       <description>
         
         
@@ -2206,9 +2206,9 @@ cd -
 &lt;li&gt;Notebooks&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Integration with the &lt;code&gt;AwsIamForServiceAccount&lt;/code&gt; plugin is being actively worked on for all components with Profile-level support.&lt;/p&gt;
-&lt;p&gt;You can find documentation about the &lt;code&gt;AwsIamForServiceAccount&lt;/code&gt; plugin for specific components in the individual &lt;a href=&#34;/docs/component-guides/&#34;&gt;component guides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find documentation about the &lt;code&gt;AwsIamForServiceAccount&lt;/code&gt; plugin for specific components in the individual &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/&#34;&gt;component guides&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;configuration-steps&#34;&gt;Configuration steps&lt;/h2&gt;
-&lt;p&gt;After installing Kubeflow on AWS with one of the available &lt;a href=&#34;/docs/deployment/install/&#34;&gt;deployment options&lt;/a&gt;, you can configure Kubeflow Profiles with the following steps:&lt;/p&gt;
+&lt;p&gt;After installing Kubeflow on AWS with one of the available &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/&#34;&gt;deployment options&lt;/a&gt;, you can configure Kubeflow Profiles with the following steps:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Define the following environment variables:&lt;/p&gt;
@@ -2299,7 +2299,7 @@ aws iam attach-role-policy --role-name &lt;span style=&#34;color:#000&#34;&gt;$P
 kubectl apply -f profile_iam.yaml
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Verify your configuration by &lt;a href=&#34;/docs/component-guides/notebooks-guide/#try-it-out&#34;&gt;creating and running&lt;/a&gt; a &lt;a href=&#34;https://www.kubeflow.org/docs/components/notebooks/quickstart-guide/&#34;&gt;Kubeflow Notebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Verify your configuration by &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/component-guides/notebooks-guide/#try-it-out&#34;&gt;creating and running&lt;/a&gt; a &lt;a href=&#34;https://www.kubeflow.org/docs/components/notebooks/quickstart-guide/&#34;&gt;Kubeflow Notebook&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -2308,10 +2308,10 @@ kubectl apply -f profile_iam.yaml
     
     <item>
       <title>Docs: Security</title>
-      <link>/docs/about/security/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/about/security/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/security/</guid>
       <description>
         
         
@@ -2334,10 +2334,10 @@ kubectl apply -f profile_iam.yaml
     
     <item>
       <title>Docs: Usage Tracking</title>
-      <link>/docs/about/usage-tracking/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/usage-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/about/usage-tracking/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/about/usage-tracking/</guid>
       <description>
         
         
@@ -2377,10 +2377,10 @@ kustomize build awsconfigs/common/aws-telemetry | kubectl apply -f -
     
     <item>
       <title>Docs: Vanilla Installation</title>
-      <link>/docs/deployment/install/vanilla/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/vanilla/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/vanilla/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/vanilla/guide/</guid>
       <description>
         
         
@@ -2591,10 +2591,10 @@ kubectl get pods -n kubeflow-user-example-com
     
     <item>
       <title>Docs: </title>
-      <link>/docs/deployment/install/cognito/readme-automated/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/readme-automated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/cognito/readme-automated/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/cognito/readme-automated/</guid>
       <description>
         
         

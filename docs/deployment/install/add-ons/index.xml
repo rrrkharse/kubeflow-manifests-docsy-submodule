@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubeflow on AWS – Add-ons</title>
-    <link>/docs/deployment/install/add-ons/</link>
+    <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/</link>
     <description>Recent content in Add-ons on Kubeflow on AWS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/deployment/install/add-ons/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: EFS</title>
-      <link>/docs/deployment/install/add-ons/storage/efs/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/efs/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/storage/efs/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/efs/guide/</guid>
       <description>
         
         
@@ -261,10 +261,10 @@ b. Delete the &lt;code&gt;efs-csi-controller-sa&lt;/code&gt; service account and
     
     <item>
       <title>Docs: FSx for Lustre</title>
-      <link>/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</guid>
       <description>
         
         
@@ -447,10 +447,10 @@ kubectl delete pv fsx-pv
     
     <item>
       <title>Docs: CloudWatch</title>
-      <link>/docs/deployment/install/add-ons/cloudwatch/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/cloudwatch/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/cloudwatch/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/cloudwatch/guide/</guid>
       <description>
         
         
@@ -493,10 +493,10 @@ curl https://raw.githubusercontent.com/aws-samples/amazon-cloudwatch-container-i
     
     <item>
       <title>Docs: Load Balancer</title>
-      <link>/docs/deployment/install/add-ons/load-balancer/guide/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/load-balancer/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/add-ons/load-balancer/guide/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/add-ons/load-balancer/guide/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubeflow on AWS – Deployment</title>
-    <link>/docs/deployment/</link>
+    <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/</link>
     <description>Recent content in Deployment on Kubeflow on AWS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/deployment/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Install Kubeflow</title>
-      <link>/docs/deployment/install/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/install/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/</guid>
       <description>
         
         
@@ -28,10 +28,10 @@
     
     <item>
       <title>Docs: Uninstall Kubeflow</title>
-      <link>/docs/deployment/uninstall-kubeflow/</link>
+      <link>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/uninstall-kubeflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/deployment/uninstall-kubeflow/</guid>
+      <guid>https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/uninstall-kubeflow/</guid>
       <description>
         
         
@@ -41,7 +41,7 @@
 kubectl delete profile --all
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then, delete the Kubeflow deployment with the following command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;kustomize build example &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;|&lt;/span&gt; kubectl delete -f 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Cleanup steps for specific deployment options can be found in their respective &lt;a href=&#34;/docs/deployment/install/&#34;&gt;installation guides&lt;/a&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Cleanup steps for specific deployment options can be found in their respective &lt;a href=&#34;https://rrrkharse.github.io/kubeflow-manifests-docsy-submodule/docs/deployment/install/&#34;&gt;installation guides&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: This will not delete your Amazon EKS cluster.&lt;/p&gt;
 &lt;/blockquote&gt;
