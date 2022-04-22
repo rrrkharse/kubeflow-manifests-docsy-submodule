@@ -1,0 +1,149 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/about/</loc>
+    <lastmod>2022-04-15T13:15:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/about/features/</loc>
+    <lastmod>2022-04-19T15:19:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/</loc>
+    <lastmod>2022-04-19T13:39:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/add-ons/storage/efs/guide/</loc>
+    <lastmod>2022-04-19T18:52:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/component-guides/notebooks/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/prerequisites/</loc>
+    <lastmod>2022-04-19T16:19:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/cognito/guide/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/add-ons/storage/fsx-for-lustre/guide/</loc>
+    <lastmod>2022-04-19T18:52:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/component-guides/pipelines/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/about/releases/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/about/eks-compatibility/</loc>
+    <lastmod>2022-04-19T13:39:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/add-ons/cloudwatch/guide/</loc>
+    <lastmod>2022-04-19T18:52:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/component-guides/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/component-guides/kserve/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/rds-s3/guide/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/troubleshooting-aws/</loc>
+    <lastmod>2022-04-19T13:39:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/uninstall-kubeflow/</loc>
+    <lastmod>2022-04-20T13:10:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/cognito-rds-s3/guide/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/add-ons/load-balancer/guide/</loc>
+    <lastmod>2022-04-19T18:52:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/component-guides/profiles/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/about/security/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/about/usage-tracking/</loc>
+    <lastmod>2022-04-19T20:20:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/vanilla/guide/</loc>
+    <lastmod>2022-04-19T16:19:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/add-ons/</loc>
+    <lastmod>2022-04-19T18:52:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/deployment/install/cognito/readme-automated/</loc>
+    <lastmod>2022-04-19T16:19:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/docs/</loc>
+    <lastmod>2022-04-15T13:15:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/</loc>
+    <lastmod>2022-04-18T21:22:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.org/search/</loc>
+    <lastmod>2018-09-04T11:36:40+02:00</lastmod>
+  </url>
+  
+</urlset>
